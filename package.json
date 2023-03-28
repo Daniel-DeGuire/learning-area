@@ -1,0 +1,19 @@
+{
+  "name": "learning-area",
+  "version": "1.0.0",
+  "description": "GitHub repo for the [MDN Learning Area](https://developer.mozilla.org/en-US/Learn).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-DeGuire/learning-area.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel-DeGuire/learning-area/issues"
+  },
+  "homepage": "https://github.com/Daniel-DeGuire/learning-area#readme"
+}
